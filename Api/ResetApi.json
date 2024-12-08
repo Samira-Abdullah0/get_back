@@ -1,0 +1,944 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": "2",
+      "title": "Mens Casual Premium Slim Fit T-Shirts ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": "3",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": "4",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": "5",
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": "6",
+      "title": "Solid Gold Petite Micropave ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": "7",
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": "8",
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": "9",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": "10",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": "11",
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": "12",
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": "13",
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": "14",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": "15",
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": "16",
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": "17",
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": "18",
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": "19",
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": "20",
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+      "category": "women's clothing",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "email": "john@mail.com",
+      "password": "changeme",
+      "name": "Jhon",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T00:07:31.000Z",
+      "updatedAt": "2024-09-12T00:07:31.000Z"
+    },
+    {
+      "id": "2",
+      "email": "maria@mail.com",
+      "password": "12345",
+      "name": "Maria",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/DTfowdu.jpg",
+      "creationAt": "2024-09-12T00:07:31.000Z",
+      "updatedAt": "2024-09-12T00:07:31.000Z"
+    },
+    {
+      "id": "3",
+      "email": "admin@mail.com",
+      "password": "admin123",
+      "name": "Admin",
+      "role": "admin",
+      "avatar": "https://i.imgur.com/yhW6Yw1.jpg",
+      "creationAt": "2024-09-12T00:07:31.000Z",
+      "updatedAt": "2024-09-12T00:07:31.000Z"
+    },
+    {
+      "id": "4",
+      "email": "amir@gmail.com",
+      "password": "1234",
+      "name": "amir",
+      "role": "admin",
+      "avatar": "https://avatars.githubusercontent.com/u/124599?v=4",
+      "creationAt": "2024-09-12T00:44:33.000Z",
+      "updatedAt": "2024-09-12T00:46:43.000Z"
+    },
+    {
+      "id": "5",
+      "email": "alfirasain@yahoo.com",
+      "password": "171717",
+      "name": "alfira sain",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-09-12T02:23:34.000Z",
+      "updatedAt": "2024-09-12T02:23:34.000Z"
+    },
+    {
+      "id": "6",
+      "email": "abcd@gmail.com",
+      "password": "qwerty",
+      "name": "abcd",
+      "role": "customer",
+      "avatar": "https://api.escuelajs.co/api/v1/files/5d5d.png",
+      "creationAt": "2024-09-12T03:13:38.000Z",
+      "updatedAt": "2024-09-12T03:13:38.000Z"
+    },
+    {
+      "id": "7",
+      "email": "irfan@gmail.com",
+      "password": "12345678",
+      "name": "irfan",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "creationAt": "2024-09-12T05:03:20.000Z",
+      "updatedAt": "2024-09-12T05:03:20.000Z"
+    },
+    {
+      "id": "8",
+      "email": "darshitkachhadiya2222004@gmail.com",
+      "password": "dddddddd2",
+      "name": "dss",
+      "role": "customer",
+      "avatar": "https://api.lo/image/face?w=640&h=480&r=867",
+      "creationAt": "2024-09-12T05:16:41.000Z",
+      "updatedAt": "2024-09-12T05:16:41.000Z"
+    },
+    {
+      "id": "9",
+      "email": "johnyman@gmail.com",
+      "password": "changeme",
+      "name": "john",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T05:31:47.000Z",
+      "updatedAt": "2024-09-12T10:51:22.000Z"
+    },
+    {
+      "id": "10",
+      "email": "nico@mail.com",
+      "password": "1234",
+      "name": "Jhon",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T05:32:14.000Z",
+      "updatedAt": "2024-09-12T05:32:14.000Z"
+    },
+    {
+      "id": "11",
+      "email": "prueba@prueba.com",
+      "password": "string",
+      "name": "Roberto",
+      "role": "customer",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwa9iKF0g8-t5Kf8_JCp9tS6o8UGGDonVa1Q&s",
+      "creationAt": "2024-09-12T05:49:07.000Z",
+      "updatedAt": "2024-09-12T05:49:07.000Z"
+    },
+    {
+      "id": "12",
+      "email": "Rudro@mail.com",
+      "password": "alice123",
+      "name": "Rudro Sen",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "creationAt": "2024-09-12T05:52:19.000Z",
+      "updatedAt": "2024-09-12T06:58:21.000Z"
+    },
+    {
+      "id": "13",
+      "email": "bob@mail.com",
+      "password": "bob123",
+      "name": "Bob",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "creationAt": "2024-09-12T05:52:30.000Z",
+      "updatedAt": "2024-09-12T05:52:30.000Z"
+    },
+    {
+      "id": "14",
+      "email": "charlie@mail.com",
+      "password": "charlie123",
+      "name": "Charlie",
+      "role": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "creationAt": "2024-09-12T05:52:37.000Z",
+      "updatedAt": "2024-09-12T05:52:37.000Z"
+    },
+    {
+      "id": "15",
+      "email": "david@mail.com",
+      "password": "david123",
+      "name": "David",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "creationAt": "2024-09-12T05:52:45.000Z",
+      "updatedAt": "2024-09-12T05:52:45.000Z"
+    },
+    {
+      "id": "16",
+      "email": "eve@mail.com",
+      "password": "eve123",
+      "name": "Eve",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "creationAt": "2024-09-12T05:52:52.000Z",
+      "updatedAt": "2024-09-12T05:52:52.000Z"
+    },
+    {
+      "id": "17",
+      "email": "frank@mail.com",
+      "password": "frank123",
+      "name": "Frank",
+      "role": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "creationAt": "2024-09-12T05:52:59.000Z",
+      "updatedAt": "2024-09-12T05:52:59.000Z"
+    },
+    {
+      "id": "18",
+      "email": "grace@mail.com",
+      "password": "grace123",
+      "name": "Grace",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "creationAt": "2024-09-12T05:53:40.000Z",
+      "updatedAt": "2024-09-12T05:53:40.000Z"
+    },
+    {
+      "id": "19",
+      "email": "ida@mail.com",
+      "password": "ida123",
+      "name": "Ida",
+      "role": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "creationAt": "2024-09-12T05:53:56.000Z",
+      "updatedAt": "2024-09-12T05:53:56.000Z"
+    },
+    {
+      "id": "20",
+      "email": "jack@mail.com",
+      "password": "jack123",
+      "name": "Jack",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "creationAt": "2024-09-12T05:54:03.000Z",
+      "updatedAt": "2024-09-12T05:54:03.000Z"
+    },
+    {
+      "id": "21",
+      "email": "karen@mail.com",
+      "password": "karen123",
+      "name": "Karen",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "creationAt": "2024-09-12T05:54:10.000Z",
+      "updatedAt": "2024-09-12T05:54:10.000Z"
+    },
+    {
+      "id": "22",
+      "email": "louis@mail.com",
+      "password": "louis123",
+      "name": "Louis",
+      "role": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "creationAt": "2024-09-12T05:54:16.000Z",
+      "updatedAt": "2024-09-12T05:54:16.000Z"
+    },
+    {
+      "id": "23",
+      "email": "mona@mail.com",
+      "password": "mona123",
+      "name": "Mona",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "creationAt": "2024-09-12T05:54:24.000Z",
+      "updatedAt": "2024-09-12T05:54:24.000Z"
+    },
+    {
+      "id": "24",
+      "email": "nina@mail.com",
+      "password": "nina123",
+      "name": "Nina",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "creationAt": "2024-09-12T05:54:30.000Z",
+      "updatedAt": "2024-09-12T05:54:30.000Z"
+    },
+    {
+      "id": "25",
+      "email": "oliver@mail.com",
+      "password": "oliver123",
+      "name": "Oliver",
+      "role": "admin",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "creationAt": "2024-09-12T05:55:04.000Z",
+      "updatedAt": "2024-09-12T05:55:04.000Z"
+    },
+    {
+      "id": "26",
+      "email": "quincy@mail.com",
+      "password": "quincy123",
+      "name": "Quincy",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "creationAt": "2024-09-12T05:55:11.000Z",
+      "updatedAt": "2024-09-12T05:55:11.000Z"
+    },
+    {
+      "id": "27",
+      "email": "sam@mail.com",
+      "password": "sam123",
+      "name": "Sam",
+      "role": "customer",
+      "avatar": "https://i.pravatar.cc/150?img=22",
+      "creationAt": "2024-09-12T05:55:18.000Z",
+      "updatedAt": "2024-09-12T05:55:18.000Z"
+    },
+    {
+      "id": "28",
+      "email": "dk.rkachhadiya2222+11@gmail.com",
+      "password": "ssssssss2",
+      "name": "Darshit Kachhadiya",
+      "role": "customer",
+      "avatar": "https://api.lo/image/face?w=640&h=480&r=867",
+      "creationAt": "2024-09-12T06:00:13.000Z",
+      "updatedAt": "2024-09-12T06:00:13.000Z"
+    },
+    {
+      "id": "29",
+      "email": "nico@gmail.com",
+      "password": "1234",
+      "name": "Jhon",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T06:26:04.000Z",
+      "updatedAt": "2024-09-12T06:26:04.000Z"
+    },
+    {
+      "id": "30",
+      "email": "nico1@gmail.com",
+      "password": "1234",
+      "name": "Jhon",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T06:26:34.000Z",
+      "updatedAt": "2024-09-12T06:26:34.000Z"
+    },
+    {
+      "id": "31",
+      "email": "darshitkachhadiya41@gmail.com",
+      "password": "asdfasdf2",
+      "name": "Darshit Kachhadiya",
+      "role": "customer",
+      "avatar": "https://api.lo/image/face?w=640&h=480&r=867",
+      "creationAt": "2024-09-12T06:40:00.000Z",
+      "updatedAt": "2024-09-12T06:40:00.000Z"
+    },
+    {
+      "id": "32",
+      "email": "test@gmail.com",
+      "password": "1122",
+      "name": "test test",
+      "role": "customer",
+      "avatar": "https://www.shareicon.net/data/128x128/2016/07/05/791220_people_512x512.png",
+      "creationAt": "2024-09-12T06:52:49.000Z",
+      "updatedAt": "2024-09-12T06:52:49.000Z"
+    },
+    {
+      "id": "33",
+      "email": "AS@gmail.com",
+      "password": "1234",
+      "name": "Arif Shumon",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-09-12T06:56:36.000Z",
+      "updatedAt": "2024-09-12T06:56:36.000Z"
+    },
+    {
+      "id": "34",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:00:49.000Z",
+      "updatedAt": "2024-09-12T07:00:49.000Z"
+    },
+    {
+      "id": "35",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:01:07.000Z",
+      "updatedAt": "2024-09-12T07:01:07.000Z"
+    },
+    {
+      "id": "36",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:01:24.000Z",
+      "updatedAt": "2024-09-12T07:01:24.000Z"
+    },
+    {
+      "id": "37",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:01:39.000Z",
+      "updatedAt": "2024-09-12T07:01:39.000Z"
+    },
+    {
+      "id": "39",
+      "email": "dk.rkachhadiya2222@gmail.com",
+      "password": "asddfasdf2",
+      "name": "Darshit  ",
+      "role": "customer",
+      "avatar": "https://api.lo/image/face?w=640&h=480&r=867",
+      "creationAt": "2024-09-12T07:04:46.000Z",
+      "updatedAt": "2024-09-12T07:04:46.000Z"
+    },
+    {
+      "id": "40",
+      "email": "darshitkachhadiya795@gmail.com",
+      "password": "asddfasdf2",
+      "name": "Darshit  ",
+      "role": "customer",
+      "avatar": "https://api.lo/image/face?w=640&h=480&r=867",
+      "creationAt": "2024-09-12T07:06:16.000Z",
+      "updatedAt": "2024-09-12T07:06:16.000Z"
+    },
+    {
+      "id": "41",
+      "email": "t@jdkfl.com",
+      "password": "fjlksadjf",
+      "name": "super random",
+      "role": "customer",
+      "avatar": "https://www.shareicon.net/data/128x128/2016/07/05/791220_people_512x512.png",
+      "creationAt": "2024-09-12T07:08:23.000Z",
+      "updatedAt": "2024-09-12T07:08:23.000Z"
+    },
+    {
+      "id": "42",
+      "email": "js@gmail.com",
+      "password": "1111",
+      "name": "aa",
+      "role": "customer",
+      "avatar": "https://api.escuelajs.co/api/v1/files/ace0.jpg",
+      "creationAt": "2024-09-12T07:09:11.000Z",
+      "updatedAt": "2024-09-12T07:09:11.000Z"
+    },
+    {
+      "id": "43",
+      "email": "alaa3@gmail.com",
+      "password": "1234",
+      "name": "Alaa",
+      "role": "customer",
+      "avatar": "https://hoppingfeet.com/wp-content/uploads/2018/11/IMG_E9565-scaled.jpg",
+      "creationAt": "2024-09-12T07:11:01.000Z",
+      "updatedAt": "2024-09-12T07:11:01.000Z"
+    },
+    {
+      "id": "44",
+      "email": "Preniti@gmail.com",
+      "password": "123456789",
+      "name": "Pareniti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:12:38.000Z",
+      "updatedAt": "2024-09-12T07:12:38.000Z"
+    },
+    {
+      "id": "45",
+      "email": "Preniti@gmail.com",
+      "password": "123456789",
+      "name": "Pareniti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:12:49.000Z",
+      "updatedAt": "2024-09-12T07:12:49.000Z"
+    },
+    {
+      "id": "46",
+      "email": "Preniti@gmail.com",
+      "password": "123456789",
+      "name": "Pareniti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:12:50.000Z",
+      "updatedAt": "2024-09-12T07:12:50.000Z"
+    },
+    {
+      "id": "47",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:14:43.000Z",
+      "updatedAt": "2024-09-12T07:14:43.000Z"
+    },
+    {
+      "id": "48",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:14:43.000Z",
+      "updatedAt": "2024-09-12T07:14:43.000Z"
+    },
+    {
+      "id": "49",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:14:44.000Z",
+      "updatedAt": "2024-09-12T07:14:44.000Z"
+    },
+    {
+      "id": "50",
+      "email": "Rhkcxh@gmail.com",
+      "password": "4566",
+      "name": "Xklv",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:15:37.000Z",
+      "updatedAt": "2024-09-12T07:15:37.000Z"
+    },
+    {
+      "id": "51",
+      "email": "preetiverma23104@gmail.com",
+      "password": "45688899",
+      "name": "Dgjcv",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:20:40.000Z",
+      "updatedAt": "2024-09-12T07:20:40.000Z"
+    },
+    {
+      "id": "52",
+      "email": "preetiverma23104@gmail.com",
+      "password": "8888888",
+      "name": "Preeti Verma ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:21:01.000Z",
+      "updatedAt": "2024-09-12T07:21:01.000Z"
+    },
+    {
+      "id": "53",
+      "email": "preniti23104@gmail.com",
+      "password": "123456",
+      "name": "Priya",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:36:48.000Z",
+      "updatedAt": "2024-09-12T07:36:48.000Z"
+    },
+    {
+      "id": "54",
+      "email": "aasnawiaasri@gmail.com",
+      "password": "asnawi2023",
+      "name": "Andi asnawi",
+      "role": "customer",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "creationAt": "2024-09-12T07:43:15.000Z",
+      "updatedAt": "2024-09-12T07:43:15.000Z"
+    },
+    {
+      "id": "55",
+      "email": "mandeep@gmail.com",
+      "password": "1234",
+      "name": "Mandeep ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:43:50.000Z",
+      "updatedAt": "2024-09-12T07:43:50.000Z"
+    },
+    {
+      "id": "56",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:46:57.000Z",
+      "updatedAt": "2024-09-12T07:46:57.000Z"
+    },
+    {
+      "id": "57",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:46:57.000Z",
+      "updatedAt": "2024-09-12T07:46:57.000Z"
+    },
+    {
+      "id": "58",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:46:58.000Z",
+      "updatedAt": "2024-09-12T07:46:58.000Z"
+    },
+    {
+      "id": "59",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:47:26.000Z",
+      "updatedAt": "2024-09-12T07:47:26.000Z"
+    },
+    {
+      "id": "60",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:56:22.000Z",
+      "updatedAt": "2024-09-12T07:56:22.000Z"
+    },
+    {
+      "id": "61",
+      "email": "preetiverma23104@gmail.com",
+      "password": "1234",
+      "name": "Preeti ",
+      "role": "customer",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg",
+      "creationAt": "2024-09-12T07:58:47.000Z",
+      "updatedAt": "2024-09-12T07:58:47.000Z"
+    },
+    {
+      "id": "62",
+      "email": "nico@gmail.com",
+      "password": "1234",
+      "name": "Nicolas",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-09-12T08:31:24.000Z",
+      "updatedAt": "2024-09-12T08:31:24.000Z"
+    },
+    {
+      "id": "63",
+      "email": "alaaayad32@gmail.com",
+      "password": "1234",
+      "name": "AlaaAyaad",
+      "role": "customer",
+      "avatar": "https://hoppingfeet.com/wp-content/uploads/2018/11/IMG_E9565-scaled.jpg",
+      "creationAt": "2024-09-12T08:36:20.000Z",
+      "updatedAt": "2024-09-12T08:36:20.000Z"
+    },
+    {
+      "id": "64",
+      "email": "dk.rkachhadiya22222@gmail.com",
+      "password": "asasasas2",
+      "name": "Darshit Kachhadiya",
+      "role": "customer",
+      "avatar": "https://api.lo/image/face?w=640&h=480&r=867",
+      "creationAt": "2024-09-12T08:46:16.000Z",
+      "updatedAt": "2024-09-12T08:46:16.000Z"
+    },
+    {
+      "id": "65",
+      "email": "sasadsf@gmail.com",
+      "password": "wwwwwww2",
+      "name": "kk742000",
+      "role": "customer",
+      "avatar": "https://cdn-icons-png.flaticon.com/128/236/236831.png",
+      "creationAt": "2024-09-12T09:35:41.000Z",
+      "updatedAt": "2024-09-12T09:35:41.000Z"
+    },
+    {
+      "id": "66",
+      "email": "umanproger@ukr.net",
+      "password": "123456",
+      "name": "Ivan",
+      "role": "customer",
+      "avatar": "https://itinery.com.ua/img/articles_content/%D0%94%D1%80%D0%B8%D0%BC%D0%B1%D0%B0.jpg",
+      "creationAt": "2024-09-12T09:40:44.000Z",
+      "updatedAt": "2024-09-12T09:40:44.000Z"
+    },
+    {
+      "id": "67",
+      "email": "Priscilla@gmail.com",
+      "password": "123123",
+      "name": "Priscilla",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-09-12T09:50:12.000Z",
+      "updatedAt": "2024-09-12T09:50:12.000Z"
+    },
+    {
+      "id": "68",
+      "email": "Priscilla@gmail.com",
+      "password": "123123",
+      "name": "Priscilla",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-09-12T09:50:13.000Z",
+      "updatedAt": "2024-09-12T09:50:13.000Z"
+    },
+    {
+      "id": "69",
+      "email": "Priscilla@gmail.com",
+      "password": "123123",
+      "name": "Priscilla",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-09-12T09:50:14.000Z",
+      "updatedAt": "2024-09-12T09:50:14.000Z"
+    },
+    {
+      "id": "70",
+      "email": "Priscilla@gmail.com",
+      "password": "123123",
+      "name": "Priscilla",
+      "role": "customer",
+      "avatar": "https://picsum.photos/800",
+      "creationAt": "2024-09-12T09:50:14.000Z",
+      "updatedAt": "2024-09-12T09:50:14.000Z"
+    },
+    {
+      "id": "6e8d",
+      "name": "samira",
+      "email": "assj@gmail.com",
+      "password": "1234",
+      "role": "admin",
+      "avatar": "https://i.imgur.com/DTfowdu.jpg"
+    }
+  ]
+}
