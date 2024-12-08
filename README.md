@@ -53,9 +53,9 @@ The Dental Store is an interactive web application designed to manage dental-rel
 ## Technologies Used  
 
 - **React.js**: For building the user interface.  
+- **Bootstrap 5**: For designing responsive and visually appealing components.  
 - **JSON Server**: For simulating a REST API to handle backend operations.  
 - **CSS**: For styling the application.  
-
 ---
 
 ## Installation and Setup  
@@ -80,31 +80,4 @@ Follow these steps to run the project locally:
 
 5. Open the app in your browser at [http://localhost:3000](http://localhost:3000).  
 
----
-
-## Screenshots  
-
-### Dentists Management  
-- Add, view, search, edit, and delete dentists.  
-
-### Products and Shopping Cart  
-- Manage product orders and track total prices.  
-
----
-
-## License  
-
-This project is licensed under the MIT License.  
-
----
-
-## Contact  
-
-For any inquiries or support, feel free to contact:  
-
-**Samira Abdullah**  
-- **Email**: [your-email@example.com]  
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)  
-
----
 
