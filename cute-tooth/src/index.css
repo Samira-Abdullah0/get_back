@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.order-area{
+  margin-top: 50px;
+
+}
+.order-total{
+  margin-top: 10px;
+  background-color:#053742;
+  color: white;
+  font-weight: bold;
+}
+.order-names{
+  margin-top: 10px;
+  background-color:#8ca8ae;
+  color: white;
+  font-weight: bold;
+  margin: 5 0  20%;
+  border: 1px solid #053742;
+  width: 60%;
+  padding: 10px;
+  text-align: left;
+  margin-bottom: 3px;
+}
+.order-prices,
+.order-Quantities,
+.order-names{
+  display: inline-block;
+  min-width: 28%;
+}
+.order-Quantities{
+  min-width: 30%;
+  text-align: right;
+}
+.order-prices{
+  min-width: 23%;
+  text-align: right;
+  
+}
+
+.order-card,
+.order-total{
+  margin: 0 0 10px 20%;
+  border: 1px solid #053742;
+  width: 60%;
+  padding: 10px;
+  text-align: left;
+
+
+}
+.cards{
+  border:1px solid rgb(228, 221, 221) ;
+  box-shadow:0 0 5px rgb(167, 161, 161);
+  width: 400px;
+  height: 450px;
+  margin: 20px;
+}
+.cards-images img{
+  width: 250px;
+
+}
+.home-cards{
+  width: 83%;
+  text-align: center;
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+.home-cards > .cards{
+display: inline-block;
+}
+.cards:hover{
+transform: scale(1.15);
+}
+.cards{
+  transition: all 0.3s;
+}
+
+.cards-dental{
+  border:1px solid rgb(228, 221, 221) ;
+  box-shadow:0 0 5px rgb(167, 161, 161);
+  width: 550px;
+  height: 450px;
+  margin: 20px;
+
+}
+.cards-dental-images img{
+  width: 249px;
+  height: 270px;
+}
+.home-dental-cards{
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+.home-dental-cards >.cards-dental{
+  display: inline-block;
+}
+.cards-dental:hover{
+  transform: scale(1.15);
+  }
+  .cards-dental{
+    transition: all 0.3s;
+  }
+
+
+.cards-dentist{
+  border:1px solid rgb(228, 221, 221) ;
+  box-shadow:0 0 5px rgb(167, 161, 161);
+  width: 500px;
+  height: 500px;
+  margin: 20px;
+
+}
+.cards-dentist-images img{
+  width: 490px;
+  height: 300px;
+}
+.home-dentist-cards{
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+  margin-bottom: 8%;
+}
+.home-dentist-cards >.cards-dentist{
+  display: inline-block;
+}
+.cards-dentist:hover{
+  transform: scale(1.15);
+  }
+  .cards-dentist{
+    transition: all 0.3s;
+  }
+
+
+
+
+.cards-title{
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}
+.cards-title{
+  font-weight:bolder;
+  font-size: 15px;
+
+}
+.description{
+  font-size: 16px;
+}
+
+.order-item{
+  padding-left: 1px;
+}
+.order-item,
+.order-qty,
+.order-price{
+  display: inline-flex;
+  min-width: 28%;
+}
+
+.qty-btn{
+  font-weight: bold;
+  background: white;
+  outline: none;
+  border: 1px solid #053742;
+  padding: 2px 7px;   
+}
+
+.qty-btn:hover{
+  background: #053742;
+  color: white; 
+}
+.qty-btn:active{
+  background: #087d97;
+
+}
+.qty-input{
+  width: 30px;
+  text-align: center;
+}
+.delete-btn{
+  color: red;
+  outline: none;
+  border:1px solid red;
+  border-radius: 20px;
+  background: white;
+  font-weight: bold;
+  margin-left: 30px;
+}
+.delete-btn:hover{
+  background: red;
+  color: white;
+}
+.delete-btn:active{
+  background-color:rgb(154, 8, 37);
+  border: 1px solid crimson;
+}
+.total,
+.total-price,
+.place-order-btn{
+ display: inline-flex;
+}
+.total{
+  min-width: 55%;
+}
+.total-price{
+  min-width: 33%;
+  text-align: right;
+}
+.place-order-btn{
+  border: 1px solid goldenrod;
+  background-color: goldenrod;
+  border-radius: 10px;
+  color:black;
+  font-weight: bold;
+  padding:0px 5px;
+
+}
+.place-order-btn:hover{
+  border: 1px solid rgb(255, 193, 34);
+  background-color: rgb(255, 193, 34) ;
+
+}
+.place-order-btn:active{
+  border: 1px solid goldenrod;
+  background-color: goldenrod;
+
+}

@@ -1,0 +1,426 @@
+{
+  "Specializations": [
+    {
+      "id": 1,
+      "name": "General Dentistry",
+      "description": "General dentistry services and treatments",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Orthodontics",
+      "description": "Braces and orthodontic treatments",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Periodontics",
+      "description": "Gum disease diagnosis and treatment",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Endodontics",
+      "description": "Root canal treatments and procedures",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    },
+    {
+      "name": "Oral Surgery",
+      "description": "Surgical procedures for mouth and jaw",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Prosthodontics",
+      "description": "Dental prosthetics and restorative treatments",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pediatric Dentistry",
+      "description": "Dentistry for children",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cosmetic Dentistry",
+      "description": "Aesthetic dental treatments and smienhancements",
+      "imageUrl": "https://example.com/images/johnsmieeth.jpg"
+    }
+  ],
+  "dentists": [
+    {
+      "id": 101,
+      "name": "Dr. Jason Brenner",
+      "specialty": "prosthodontics.",
+      "email": "JasonBrenner@example.com",
+      "phone": "123-456-7890",
+      "imageUrl": "https://dentalstore.com/wp-content/uploads/sites/5/2018/09/dental-store_0016_Dr-Brenner.jpg",
+      "address": "Sparkling Smiles Dental Clinic 123 Main Street Cityville, Dentalia 12345"
+    },
+    {
+      "id": 103,
+      "name": "Dr. Glenn Shulkin",
+      "specialty": "Periodontics",
+      "email": "GlennShulkin@example.com",
+      "phone": "555-006-5775",
+      "imageUrl": "https://dentalstore.com/wp-content/uploads/sites/5/2018/09/dental-store_0012_Dr-Glenn.jpg",
+      "address": "Bright Dental Solutions 321 MapLane Grinville, Dentalia 12345"
+    },
+    {
+      "id": 104,
+      "name": "Dr. Ghassan Souri",
+      "specialty": "Pedodontist",
+      "email": "Ghassan Souri@example.com",
+      "phone": "900-648-3310",
+      "imageUrl": "https://dentalstore.com/wp-content/uploads/sites/5/2018/09/dental-store_0009_Dr-Souri.jpg",
+      "address": "Elite Dental Associates 987 Pine Street Smileville, Dentopia 67890"
+    },
+    {
+      "id": 105,
+      "name": "Dr. John Barry",
+      "specialty": "General Dentistry",
+      "email": "ElizabethCohn@example.com",
+      "phone": "555-4444-5335",
+      "imageUrl": "https://burst.shopifycdn.com/photos/male-dentist.jpg?width=1850&format=pjpg&exif=1&iptc=1",
+      "address": "Happy Teeth Dental Clinic 654 Cherry Avenue Toothville, Dentopia 67890"
+    },
+    {
+      "id": 106,
+      "name": "Dr. Dan Miller Ali",
+      "specialty": "Prosthodontics",
+      "email": "Dan@example.com",
+      "phone": "555-4444-9966",
+      "imageUrl": "https://www.instant-dentist.com/wp-content/uploads/2019/10/h1-1.jpg",
+      "address": "Happy Teeth Dental Clinic 654 Cherry Avenue Toothville, Dentopia 67890"
+    }
+  ],
+  "dentalLab": [
+    {
+      "id": 400,
+      "name": "Instruments",
+      "imageURL": "https://www.dentalstore.co.nz/cdn/shop/products/cip19_1080x.png?v=1633003342",
+      "p1": "https://www.dentalstore.co.nz/cdn/shop/products/CIPP5_1080x.png?v=1633003299",
+      "p2": "https://www.dentalstore.co.nz/cdn/shop/products/1_4b2266a2-40fe-407a-9ff9-d56a69254f18_1080x.jpg?v=1632742491",
+      "p3": "https://www.dentalstore.co.nz/cdn/shop/products/DDKP_1080x.png?v=1633003432",
+      "p1Name": "Posterior Instruments",
+      "p2Name": "Alma Gauge",
+      "p3Name": "Dental Dam Peedo Kit ",
+      "PriceOfp1": 2467,
+      "PriceOfp2": 2505,
+      "PriceOfp3": 4061
+    },
+    {
+      "id": 401,
+      "name": "IMPRESSION MATERIALS",
+      "imageURL": "https://th.bing.com/th/id/R.3eefeffa555273fb6c8b142145298462?rik=ebg74FQFN6%2fabg&pid=ImgRaw&r=0",
+      "p1": "https://th.bing.com/th/id/R.1664a81fb314e4f132f9be6f755e9738?rik=ip109yCvFXK5tw&riu=http%3a%2f%2fwww.dentallaboratorio.com%2fwp-content%2fuploads%2f2020%2f05%2fimplant-dental-impression-tray.jpg&ehk=%2fFyhuX4jAgvJ%2fqYjUw6lZlr7NILAKzK44Dca8fTD8OU%3d&risl=&pid=ImgRaw&r=0",
+      "p2": "https://www.dentalstore.co.nz/cdn/shop/products/1_ebe94345-4ca6-4463-b947-de1c8cf38bd8_1080x.jpg?v=1628080953",
+      "p3": "https://www.dentalstore.co.nz/cdn/shop/products/Impression_tray_93a49b9e-b78e-4ef9-8752-29069a29b528_1080x.jpg?v=1590204342",
+      "p1Name": "UNIDENT GREEN IMPRESSION TRAYS",
+      "p2Name": "LABORATORY PUTTY 5 KG Regular",
+      "p3Name": "DISPOSABLEPLASTIC IMPRESSION TRAYS",
+      "PriceOfp1": 4638,
+      "PriceOfp2": 3062,
+      "PriceOfp3": 24109
+    },
+    {
+      "id": 402,
+      "name": "MICROMOTORS",
+      "imageURL": "https://www.dentalstore.co.nz/cdn/shop/products/Escort_II_Micromotor_Complete_-_Marathon_f6324a3c-f8ac-4f94-8a17-5fba3dc49194_540x.jpg?v=1590203634",
+      "p1": "https://www.dentalstore.co.nz/cdn/shop/products/Handpiece_-_air_turbo-Marathon_0d551429-ef6f-43d9-8ff9-6a0b5a6b0db2_1080x.jpg?v=1590203467",
+      "p2": "https://www.dentalstore.co.nz/cdn/shop/products/Marathon_strong_90_b93ef0c0-3a7f-4b81-bed8-9eba51477248_540x.jpg?v=1590203419",
+      "p3": "https://i.ebayimg.com/images/g/WxcAAOSwxlxdxNbB/s-l640.jpg",
+      "p1Name": "AIR TURBO HIGH SPEED SYSTEM",
+      "p2Name": "SAESHIN HANDPIECE WITH FOOT CONTROL",
+      "p3Name": "Dental Marathon Electric Micromotor 35K RPM",
+      "PriceOfp1": 6000,
+      "PriceOfp2": 7000,
+      "PriceOfp3": 9000
+    },
+    {
+      "id": 403,
+      "name": " Handpiece",
+      "imageURL": "https://stevensondentalsolutions.com/wp-content/uploads/Handpiece-Kit-%E2%80%93-Purchase-%E2%80%93-VALUE_W.jpg",
+      "p1": "https://www.miller-stephenson.com/wp-content/uploads/2016/08/canstockphoto17704348-510x600.jpg",
+      "p2": "https://th.bing.com/th/id/R.38834e91b3b38caeb45af465edc6adb8?rik=QizbWDeHSKceZw&pid=ImgRaw&r=0",
+      "p3": "https://i.ebayimg.com/images/g/jOUAAOSwQ~ha1GE0/s-l640.jpg",
+      "p1Name": "Dental Handpiece Lubricants ",
+      "p2Name": "Dental High Speed Handpiece ",
+      "p3Name": "Low Speed Dental Handpiece",
+      "PriceOfp1": 24000,
+      "PriceOfp2": 2500,
+      "PriceOfp3": 1300
+    },
+    {
+      "id": 40,
+      "name": " Endo",
+      "imageURL": "https://th.bing.com/th/id/OIP.GpoJKh-DlrfJ5mAJ1pb4KgHaHa?w=2000&h=2000&rs=1&pid=ImgDetMain",
+      "p1": "https://www.miller-stephenson.com/wp-content/uploads/2016/08/canstockphoto17704348-510x600.jpg",
+      "p2": "https://th.bing.com/th/id/R.38834e91b3b38caeb45af465edc6adb8?rik=QizbWDeHSKceZw&pid=ImgRaw&r=0",
+      "p3": "https://i.ebayimg.com/images/g/jOUAAOSwQ~ha1GE0/s-l640.jpg",
+      "p1Name": "Dental Handpiece Lubricants ",
+      "p2Name": "Dental High Speed Handpiece ",
+      "p3Name": "Low Speed Dental Handpiece",
+      "PriceOfp1": 24000,
+      "PriceOfp2": 2500,
+      "PriceOfp3": 1300
+    }
+  ],
+  "dentalClinics": [
+    {
+      "id": 501,
+      "name": "Endodontics",
+      "imageURL": "https://ae-dental.com/wp-content/uploads/2017/11/Endodontics.jpg",
+      "p1": "https://www.naturaldentures.com/wp-content/uploads/2021/06/what-are-dental-implants-300x300.jpg",
+      "p2": "https://img.medicalexpo.com/images_me/photo-mg/120083-12553749.jpg",
+      "p1Name": "Endodontic Rotary Files",
+      "p2Name": "Endodontic spreader ",
+      "PriceOfp1": 150,
+      "PriceOfp2": 500
+    },
+    {
+      "id": 502,
+      "name": "Restorative",
+      "imageURL": "https://www.cdlancy.ch/wp-content/uploads/2019/11/centre-dentaire-lancy-inlay.jpg",
+      "p1": "https://ik.imagekit.io/ntbqhq9k6/tr:w-null,h-null//storage/institutes/638f043a4dc67/products/6395f5cf6de60/gallery/639c918b8a7e5productimage6395f5cf6de60.jpeg",
+      "p2": "https://i.pinimg.com/originals/0a/4e/2a/0a4e2a2fee136f481156cd4242143682.jpg",
+      "p1Name": "Composite 3m Z250 A2",
+      "p2Name": "Sectional Matrix - 100pc",
+      "PriceOfp1": 110,
+      "PriceOfp2": 900
+    },
+    {
+      "id": 503,
+      "name": "Infection Control",
+      "imageURL": "https://i.ebayimg.com/images/g/OK8AAOSw5spfB5yg/s-l640.jpg",
+      "p1": "https://covid19safety.org/wp-content/uploads/2020/05/IMG_20200517_203035-922x2048.jpg",
+      "p2": "https://i1.wp.com/pocketdentistry.com/wp-content/uploads/2020/02/Gladwin5e-ch020-image002.jpg?w=960",
+      "p1Name": "70% Alcohol ",
+      "p2Name": "gloves",
+      "PriceOfp1": 100,
+      "PriceOfp2": 250
+    }
+  ],
+  "products": [
+    {
+      "id": 201,
+      "name": "Electric Toothbrush",
+      "description": "An advanced electric toothbrush for effective cleaning.",
+      "price": 29,
+      "Quantity": 10,
+      "manufacturer": "ABC Dental",
+      "category": "Toothbrushes",
+      "imageURL": "https://i5.walmartimages.com/asr/1d313fbf-424d-45bf-8c1f-aea214777f73_1.1aec827d1bba93c00229126469aedc1d.jpeg"
+    },
+    {
+      "id": 202,
+      "name": "Amalgamtor",
+      "description": "Amalgam Mixer.",
+      "price": 50,
+      "Quantity": 20,
+      "manufacturer": "XYZ Oral Care",
+      "category": "Amalgam Mixer BMS Italy",
+      "imageURL": "https://perfectionplus.com/wp-content/uploads/2017/01/amalgamator_d650.jpg"
+    },
+    {
+      "id": 203,
+      "name": "Light Cure",
+      "description": "Professional Curing Lamp.",
+      "price": 100,
+      "Quantity": 30,
+      "manufacturer": "MOON EVOLUTION SET",
+      "category": "Light Cure",
+      "imageURL": "https://www.dentalaaka.com/uploaded_files/thumb_cache/thumb_900_900_woodpecker-light-cure-lux-e-plus-3-second-curing-.png"
+    },
+    {
+      "id": 204,
+      "name": "Hand Piece",
+      "description": "Young Hygiene Handpiece.",
+      "price": 60,
+      "Quantity": 30,
+      "imageURL": "https://www.pearsondental.com/catalog/img/Y30-2060.JPG"
+    },
+    {
+      "id": 205,
+      "name": "Zeta Plus",
+      "description": " Zhermack Zetaplus .",
+      "price": 37,
+      "Quantity": 30,
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/Zhermack-Zetaplus-C-Silicone-Intro-Kit-Base-Catalyst-Light-Body.jpg"
+    },
+    {
+      "id": 206,
+      "name": "Dental Anesthesia",
+      "description": "Dental Anesthesia.",
+      "price": 56,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://th.bing.com/th/id/OIP.We3iQrugt2IHNj6HDwqr7wHaHa?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 207,
+      "name": "GC Solare Sculpt Promo ",
+      "description": "Dental Anesthesia.",
+      "price": 200,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/syringes_1-400x400.jpg"
+    },
+    {
+      "id": 208,
+      "name": "Fixtures & Posts",
+      "description": "Dental Anesthesia.",
+      "price": 566,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/prime-dent-hybrid-composite-syringe-kit.jpg"
+    },
+    {
+      "id": 209,
+      "name": "Temporary Dental Fillings",
+      "description": "Dental Anesthesia.",
+      "price": 66,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/gaenial_post-400x400.jpg"
+    },
+    {
+      "id": 210,
+      "name": "Posterior Restoratives",
+      "description": "Dental Anesthesia.",
+      "price": 68,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/adper-400x400.jpg"
+    },
+    {
+      "id": 211,
+      "name": "Glass Ionomer Restoratives",
+      "description": "Dental Anesthesia.",
+      "price": 790,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/GC-Soft-Liner-Denture-Relining-Material-400x400.jpg"
+    },
+    {
+      "id": 212,
+      "name": "Bonding Agents",
+      "description": "Dental Anesthesia.",
+      "price": 800,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://natra-instruments.com/image/cache/s/-/s-l1600_46__3-550x550w.jpg"
+    },
+    {
+      "id": 213,
+      "name": "Zhermack Hydrogum 5 Alginate",
+      "description": "Dental Anesthesia.",
+      "price": 1000,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://th.bing.com/th/id/OIP.J8wyTjzbtC5HOd-ltoZSJgHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 214,
+      "name": "DPI Chromatex Plus",
+      "description": "Dental Anesthesia.",
+      "price": 589,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/woodpecker-product_v_plus.jpg"
+    },
+    {
+      "id": 215,
+      "name": "Woodpecker Apex Locator ",
+      "description": "Dental Anesthesia.",
+      "price": 489,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/vps_tray_adhesve_7307.jpg"
+    },
+    {
+      "id": 216,
+      "name": "Kooliner Professional Package",
+      "description": "Dental Anesthesia.",
+      "price": 600,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/acrytemp-50ml-400x400.jpg"
+    },
+    {
+      "id": 217,
+      "name": " VPS Tray Adhesive",
+      "description": "Dental Anesthesia.",
+      "price": 140,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2021/12/JENIN-PMT-Set-Diagnostic-Kit-Containing-Mouth-Mirror-with-Handle-Tweezer-Probe-Double-Ended-and-Single-Ended-1.jpg"
+    },
+    {
+      "id": 218,
+      "name": "Zhermack Alghamix",
+      "description": "Dental Anesthesia.",
+      "price": 234,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://m.media-amazon.com/images/I/61r+X0IPh9L._AC_.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Ketac Cem Glass Ionomer ",
+      "description": "Dental Anesthesia.",
+      "price": 39,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/pentamix.jpg"
+    },
+    {
+      "id": 220,
+      "name": "Prime Dental Desensitizer 3GM ",
+      "description": "Dental Anesthesia.",
+      "price": 49,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/3m-espe-soft-putty-500x500.jpg"
+    },
+    {
+      "id": 221,
+      "name": "Solare Sculpt Promo",
+      "description": "Dental Anesthesia.",
+      "price": 33,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/om04dydor0bqrkh2d1u4lw2i230120180508ss_big_chromatexplus-400x400.jpg"
+    },
+    {
+      "id": 222,
+      "name": " Revotek LC Intro Set",
+      "description": "Dental Anesthesia.",
+      "price": 29,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/Prime-Dental-Desensitizer-3GM-400x400.jpg"
+    },
+    {
+      "id": 223,
+      "name": " G-Aenial Posterior",
+      "description": "Dental Anesthesia.",
+      "price": 28,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/s-l1000_6.jpg"
+    },
+    {
+      "id": 224,
+      "name": "Adper Single Bond",
+      "description": "Dental Anesthesia.",
+      "price": 78,
+      "Quantity": 30,
+      "category": "Dental Anesthesia",
+      "imageURL": "https://amplemeds.com/wp-content/uploads/2019/08/espe.jpg"
+    }
+  ],
+  "myCart": []
+}
